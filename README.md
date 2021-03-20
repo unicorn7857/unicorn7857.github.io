@@ -38,8 +38,8 @@
         <h1 id="title" >unicorn7857's blog</h1>
 
         <h3>Contents</h3>
-         <a href="#start"><li>How it all started</a>
-         <a href="#two"><br><li>My favourite parts about coding</a>
+         <a href="#start"><li>How it all started
+         <a href="#two"><br><li>My favourite parts about coding
            
        
         <h2 id="start">How it all started </h2>
@@ -68,5 +68,4 @@ And now I'm here! I hope you enjoyed learning how I started coding and be sure t
         </p>
         <a href="#title"><br>  Back to the top</a>
 
-    </body>
-</html>
+    </html>
