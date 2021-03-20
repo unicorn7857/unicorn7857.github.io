@@ -16,7 +16,7 @@
        font-family:monospace;
    }
    body{
-       background-color:rgb(227, 79, 151);
+       background-color:rgb(235, 162, 197);
    }
    p{
        font-family:cursive;
@@ -68,4 +68,4 @@ And now I'm here! I hope you enjoyed learning how I started coding and be sure t
         </p>
         <a href="#title"><br>  Back to the top</a>
 
-    </html>
+  
