@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -16,7 +16,7 @@
        font-family:monospace;
    }
    body{
-       background-color:rgb(0, 250, 179);
+       background-color:rgb(227, 79, 151);
    }
    p{
        font-family:cursive;
